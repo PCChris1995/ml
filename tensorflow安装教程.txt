@@ -1,0 +1,4 @@
+安装tensorflow过程当中碰到很多的问题，并且有些问题没有解决，这里先把一些好的博客汇总一下，之后再来使用
+
+TENSORFLOW：检查显卡支持哪个版本的CUDA
+https://www.cnblogs.com/yingchuan-hxf/p/7710071.html 
